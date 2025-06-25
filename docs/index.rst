@@ -6,7 +6,7 @@ How to Log In to Your Hulu TV Account on Any Device?
    :caption: Contents:
 
 
-.. image:: https://iolosystemmechanicloginaccount.readthedocs.io/en/latest/_images/login.png
+.. image:: login.png
    :alt: My Project Logo
    :width: 400px
    :align: center
